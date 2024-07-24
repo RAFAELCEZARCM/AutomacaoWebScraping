@@ -14,3 +14,5 @@ Automacao para varredura de url's, extraindo tags HTML e trazendo conteúdos de 
 - datetime
 
 ## Em breve mais novidades e funcionalidades...
+- Frontend pra aplicação.
+- Inserção do WebDriver Chrome.
